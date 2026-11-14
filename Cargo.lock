@@ -1,0 +1,7 @@
+[[package]]
+name = "evil"
+source = "git+https://evil.example/x#abc"
+
+[[package]]
+name = "axum"
+source = "registry+https://github.com/rust-lang/crates.io-index"
